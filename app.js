@@ -1,1 +1,3 @@
-console.log("This is for testing");
+let a = 5;
+
+console.log(a);
